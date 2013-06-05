@@ -1,1 +1,2 @@
 1) Armory for ApocalypseCore By Takenbacon and Shadez -- download armory: https://github.com/Takenbacon/wowarmory/archive/master.zip
+2) Complemento para el sistema de transpote de Gunship-Implement fonction SendInitTransportsInInstance -----PD:agregar al patch de guship
